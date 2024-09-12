@@ -42,8 +42,27 @@ For starter's my name is Anthony Rivera I am sure you already know that based of
 <li>Geology</li>
 <li>Geography</li>
 <li>Political science</li>
+</ol>
+<hr/>
+<br/>
+
+<h3>Links:</h3>
+
+<a href="https://anthonyrivera3.github.io"> Anthony's Lab 1 </a>
+<br/>
+<a href="www.linkedin.com/in/anthony-rivera-8781a525a"> Linked In </a>
+<br/>
+<a href= "https://github.com/AnthonyRivera3"> Git Hub</a>
+<hr/>
+<br/>
+<br/>
 
 
+<img src="jujutsu-kaisen-gojo-satoru.png.gif" width="400" height="250"/>
 
+
+<h1>Created on September 12th 2024</h1>
+<hr/>
+<h1>Author: Anthony Rivera</h1>
 </body>
     </html>
