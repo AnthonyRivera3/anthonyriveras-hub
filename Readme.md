@@ -1,9 +1,9 @@
 <html xmlns="fn">
 
 
-<head><title> 
-<h1>Anthony Rivera's Hub</h1>
-</title></head>
+
+<head><title>Anthony Rivera's Hub</title></head>
+
 
 
 <body>
